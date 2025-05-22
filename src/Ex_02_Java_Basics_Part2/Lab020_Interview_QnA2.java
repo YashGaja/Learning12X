@@ -4,9 +4,9 @@ public class Lab020_Interview_QnA2 {
     public static void main(String[] args) {
 
         //can you use Enum" as variable name
-        //int Enum = 10;
+        int Enum = 10;
         // yes you can
-
+        System.out.println(Enum);
         //can you use "_" in variable name
         //int a_b = 100;
         //yes you can
