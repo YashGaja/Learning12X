@@ -1,7 +1,9 @@
 package Ex_06_Ternary_Operator;
 
+import org.jetbrains.annotations.NotNull;
+
 public class Lab068_Real_Age_Classification {
-    public static void main(String[] args) {
+    public static void main(String @NotNull [] args) {
 
         // age = 23 -> Adult  ( age > 18) , Minor (age  <18), Senior ( age > 65)
 
